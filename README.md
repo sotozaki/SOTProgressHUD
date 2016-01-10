@@ -9,7 +9,17 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```swift
+import SOTProgressHUD
+SOTProgressHUD.sharedHUD.show(self.view)
+SOTProgressHUD.sharedHUD.dismissSuccessWithDelay(self.view, delay: 1.0)
+SOTProgressHUD.sharedHUD.dismissErrorWithDelay(self.view, delay: 1.0)
+SOTProgressHUD.sharedHUD.dismiss()
+```
+
 ## Requirements
+* Xcode 7.2
+* Swift 2.0  
 
 ## Installation
 
@@ -23,6 +33,7 @@ pod "SOTProgressHUD"
 ## Author
 
 sotozakimasanori, sotozakimasanori@gmail.com
+
 
 ## License
 
