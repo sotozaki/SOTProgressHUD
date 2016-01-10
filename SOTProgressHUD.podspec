@@ -2,8 +2,6 @@ Pod::Spec.new do |s|
   s.name             = "SOTProgressHUD"
   s.version          = "0.1.0"
   s.summary          = "SOTProgressHUD is a lightweight progress HUD for iOS app in Swift2.0."
-  s.description      = <<-DESC
-                       DESC
   s.homepage         = "https://github.com/sotozaraki/SOTProgressHUD"
   # s.screenshots    = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
