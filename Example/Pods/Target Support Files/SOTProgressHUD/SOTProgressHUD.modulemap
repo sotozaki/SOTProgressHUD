@@ -1,0 +1,6 @@
+framework module SOTProgressHUD {
+  umbrella header "SOTProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

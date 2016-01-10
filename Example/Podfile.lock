@@ -1,0 +1,14 @@
+PODS:
+  - SOTProgressHUD (0.1.0)
+
+DEPENDENCIES:
+  - SOTProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  SOTProgressHUD:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SOTProgressHUD: 684f643aff8f3338d946b591ea8092b8dafdbaf7
+
+COCOAPODS: 0.39.0
