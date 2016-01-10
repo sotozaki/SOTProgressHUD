@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SOTProgressHUD: 684f643aff8f3338d946b591ea8092b8dafdbaf7
+  SOTProgressHUD: 1f2f6e6538bf109adeec14e30dcebcefaeb50927
 
 COCOAPODS: 0.39.0
