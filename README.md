@@ -1,7 +1,19 @@
 # SOTProgressHUD
 
 [![Build Status](https://travis-ci.org/sotozaraki/SOTProgressHUD.svg?branch=master)](https://travis-ci.org/sotozaraki/SOTProgressHUD)
+![Pod Version](https://img.shields.io/cocoapods/v/SOTProgressHUD.svg?style=flat)
+![Pod License](https://img.shields.io/cocoapods/l/SOTProgressHUD.svg?style=flat)
+![Pod Platform](https://img.shields.io/cocoapods/p/SOTProgressHUD.svg?style=flat)
 
+SOTProgressHUD is a lightweight progress HUD for iOS app in Swift2.0.
+
+<img src="http://wst.xsrv.jp/SOTProgressHUD/SOTProgressHUD.gif" width=250.0>
+
+## DEMO
+
+```ruby
+pod try SOTProgressHUD
+```
 
 ## Usage
 
@@ -33,7 +45,7 @@ pod "SOTProgressHUD"
 
 ## Author
 
-sotozakimasanori, sotozakimasanori@gmail.com
+sotozakimasanori
 
 
 ## License
